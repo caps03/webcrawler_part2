@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Generating Code...
+  Compiling...
+  crawl.cpp
+c:\users\steve\documents\caps01_piercea7\caps01_piercea7\crawl.cpp(28): warning C4018: '>': signed/unsigned mismatch
+c:\users\steve\documents\caps01_piercea7\caps01_piercea7\crawl.cpp(79): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  caps01_piercea7.vcxproj -> C:\Users\Steve\Documents\caps01_piercea7\Debug\caps01_piercea7.exe
+  caps01_piercea7.vcxproj -> C:\Users\Steve\Documents\caps01_piercea7\Debug\caps01_piercea7.pdb (Partial PDB)
